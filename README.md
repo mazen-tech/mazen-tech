@@ -25,7 +25,7 @@ DESCRIPTION
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/100-days-of-code-in-python">
-    <img src=https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg  width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_python.png"  width="265"/>
   </a>
 </p>
 
