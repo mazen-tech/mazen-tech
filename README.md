@@ -1,4 +1,4 @@
-#### Mazen's adventures
+### Mazen's adventures
 ![Mazen's adventures](https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_common_core.png?raw=true)
 
 🌱 I’m currently a second-year computer science student and software engineering student at 42 Warsaw after successfully completing the Piscine.
