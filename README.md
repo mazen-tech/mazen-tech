@@ -55,9 +55,11 @@ BIG ICONS
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,github,linux,vim,mysql,vscode,blender" />
+     [![An image of @amoghakds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amoghakds)](https://holopin.io/@amoghakds)
   </a>
 </p>
 
+ 
 <!---
 jotavare/jotavare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
