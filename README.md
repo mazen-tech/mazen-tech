@@ -54,7 +54,7 @@ BIG ICONS
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,github,linux,vim,vscode,blender" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,github,linux,vim,sql,mysql,vscode,blender" />
   </a>
 </p>
 
