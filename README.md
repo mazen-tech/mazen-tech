@@ -43,10 +43,10 @@ SMALL ICONS
 
 ## About me
 
-- 🌱 I’m currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine.
-- 👀 I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
-- 🚀 Additionally, I have an interest in `Cybersecurity`, `Python`, `Data Analysis` and `Project Management`.
-- 🛠️ I have six years of work experience in `Graphic Design` and `Offset Printing`.
+- 🌱 I’m currently a software engineer under training at [**42 Warsaw**](https://42warsaw.pl/) after successfully completing the Piscine.
+- 👀 I’m interested in  `3d graphic designing`, `Skydiving` and `photography`.
+- 🚀 Additionally, I have an interest in `Data Analsis`, `Java`, `Backend software engnineering` and `Video Editing`.
+- 🛠️ I have one year of work experience in `IT support`.
 
 <!---
 BIG ICONS
@@ -54,7 +54,7 @@ BIG ICONS
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github,bash,linux,vim,vscode,ai,ps,markdown,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,github,bash,linux,vim,vscode,blender" />
   </a>
 </p>
 
