@@ -3,7 +3,7 @@ DESCRIPTION
 --->
 ## Mazen's adventures
 <p float="left" align="center">
-  <img src="https://github.com/mazen-tech/42-banner/blob/main/Screenshot%202024-03-28%20125222.jpeg" width="285"/>
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_resources.png" width="285"/>
   &nbsp;
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine.png" width="265"/>
   &nbsp;
