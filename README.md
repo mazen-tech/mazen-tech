@@ -3,21 +3,29 @@ DESCRIPTION
 --->
 ## Mazen's adventures
 <p float="left" align="center">
-    <a href="https://github.com/jotavare/42-resources">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_resources.png" width="265"/>
+  <a href="https://github.com/jotavare/42-resources">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_resources_v1.png" width="265"/>
   </a>
   &nbsp;
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine.png" width="265"/>
+  <a href="https://github.com/jotavare/42-piscine">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265"/>
+  </a>
   &nbsp;
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core.png" width="265"/>
+  <a href="https://github.com/jotavare/42-common-core">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
+  </a>
 </p>
 <p float="left" align="center">  
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_ctf.png" width="265"/>
+  <a href="https://github.com/jotavare/42-ctf">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_ctf_v1.png" width="265"/>
   </a>
   &nbsp;
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_guides_and_manuals.png" width="265"/>
+  <a href="https://jotavare.github.io">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_registry_v1.png" width="265"/>
   </a>
   &nbsp;
+  <a href="https://github.com/jotavare/100-days-of-code-in-python">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_python_v1.png" width="265"/>
   </a>
 </p>
 
