@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello there, I'm Mazen 👋</b></h1>  
 </p>
 
-<p>
+<p> 
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
 
